@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Vivek!
 
 I'm a student learning programming at HarvardX{cs50}
 I’m passionate about coding and building projects to improve my skills.  
